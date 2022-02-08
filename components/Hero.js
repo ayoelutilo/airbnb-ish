@@ -6,7 +6,7 @@ export default function Hero() {
     <HeroSection className="light hero">
       <div className="heroInner">
         <span>
-          <h1>Olympian & Paralympian Online Experiences</h1>
+          <h1>Find beautiful locations to shoot content near you.</h1>
           <a href="#" className="btn btn-light">
             Explore Now
           </a>
