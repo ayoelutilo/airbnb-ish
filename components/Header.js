@@ -112,17 +112,17 @@ export default function Header({ placeholder }) {
         </div>
         <nav ref={navRef}>
           <a href="#" className="active">
-            Places to stay
+            Near Me
           </a>
+          <a href="#">Discover</a>
           <a href="#">Experiences</a>
-          <a href="#">Online Experiences</a>
         </nav>
         <MobileNav />
         <form className="search">
           <input
             type="text"
             ref={primaryLocationRef}
-            placeholder={placeholder ? placeholder : "Where are you going?"}
+            placeholder={placeholder ? placeholder : "beautiful locations near you?"}
             onFocus={openDatePicker}
             value={location}
             onChange={(e) => setLocation(e.target.value)}
@@ -138,7 +138,7 @@ export default function Header({ placeholder }) {
                   value={location}
                   ref={secondaryLocationRef}
                   onChange={(e) => setLocation(e.target.value)}
-                  placeholder="Where are you going?"
+                  placeholder=""
                 />
               </div>
 
