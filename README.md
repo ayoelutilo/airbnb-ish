@@ -1,4 +1,4 @@
-# Airbnb-ish 👋
+# inspoPin-ish 👋
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
@@ -7,9 +7,9 @@
   </a>
 </p>
 
-> Airbnb UI clone using Next.js + styled-components. (Todo: Search functionality and Mapbox integration)
+> inspoPin UI clone using Next.js + styled-components. (Todo: Search functionality and Mapbox integration)
 
-### ✨ [Live Demo](https://airbnb-ish.vercel.app)
+### ✨ [Live Demo](https://inspoPin-ish.vercel.app)
 
 ## Author
 

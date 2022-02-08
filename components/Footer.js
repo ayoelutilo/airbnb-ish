@@ -10,14 +10,14 @@ export default function Footer() {
         <span>
           <h2>About</h2>
           <ul>
-            <li>How Airbnb works</li>
+            <li>How inspoPin works</li>
             <li>Newsroom</li>
-            <li>Airbnb 2021</li>
+            <li>inspoPin 2021</li>
             <li>Investors</li>
-            <li>Airbnb Plus</li>
-            <li>Airbnb Luxe</li>
+            <li>inspoPin Plus</li>
+            <li>inspoPin Luxe</li>
             <li className="lg-hidden">HotelTonight</li>
-            <li className="lg-hidden">Airbnb for Work</li>
+            <li className="lg-hidden">inspoPin for Work</li>
             <li className="lg-hidden">Made possible by Hosts</li>
             <li className="lg-hidden">Careers</li>
             <li className="lg-hidden">Founders&apos; Letter</li>
@@ -28,10 +28,10 @@ export default function Footer() {
           <ul>
             <li>Diversity & Belonging</li>
             <li>Accessibility</li>
-            <li>Airbnb Associates</li>
+            <li>inspoPin Associates</li>
             <li>Frontline Stays</li>
             <li>Guest Referrals</li>
-            <li>Airbnb.org</li>
+            <li>inspoPin.org</li>
           </ul>
         </span>
         <span>
@@ -51,7 +51,7 @@ export default function Footer() {
             <li>Our COVID-19 Response</li>
             <li>Help Centre</li>
             <li>Cancellation options</li>
-            <li>Neighbourhood Support</li>
+            <li>Neighborhood Support</li>
             <li>Trust & Safety</li>
           </ul>
         </span>
@@ -80,8 +80,8 @@ export default function Footer() {
           </p>
           <p>
             &copy; 2021{" "}
-            <a href="https://dashsantosh.me" target="_blank" rel="noreferrer">
-              Dash Santosh
+            <a href="https://ayoelutilo.com" target="_blank" rel="noreferrer">
+              Ayo Elutilo
             </a>
           </p>
         </span>
